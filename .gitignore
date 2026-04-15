@@ -1,0 +1,12 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+green_thread
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
