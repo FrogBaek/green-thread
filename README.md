@@ -30,4 +30,4 @@ make clean  # 산출물 정리
 
 이 프로젝트의 설계 의도와 구현 디테일(왜 callee-saved 만 저장하면 되는지, 스택 포인터 한 줄 교체가 어떻게 "스레드 전환"이 되는지 등) 은 블로그 글에 정리해 두었습니다.
 
-- Virtual Thread 는 어떻게 동작하는가 — C 로 직접 구현해보기
+- https://frogbaek.github.io/posts/2/
